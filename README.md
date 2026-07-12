@@ -30,12 +30,13 @@ I enjoy turning AI ideas into reliable software — from backend APIs and enterp
 </p>
 
 **AI:** LangGraph · LangChain · FAISS · Hugging Face · RAG · SBERT · Groq · Ollama
+
 **Data:** SQL Server · PostgreSQL · SQLite · Google BigQuery
+
 
 ## 💼 Experience
 
 **AI Engineer** 
-
 
 * 🤖 **Architected an AI-powered voice control system for Boston Dynamics Spot**, designing an **Agentic AI** workflow using **MCP, RAG, SBERT, FAISS, and LLM orchestration** for natural language robotic control.
 
@@ -49,6 +50,7 @@ I enjoy turning AI ideas into reliable software — from backend APIs and enterp
 
 * ☁️ **Developed and deployed scalable AI backend services** using **Docker, Azure DevOps, AWS (EC2, S3), Google BigQuery, JWT Authentication, and RBAC**, supporting secure, production-ready enterprise applications.
   
+
 
 ## 🚀 Featured Projects
 
