@@ -85,19 +85,10 @@ Data warehouse and analytics platform with ETL pipelines and interactive dashboa
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ishreya-dev&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ishreya-dev&theme=tokyonight" />
 </p>
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishreya-dev&layout=compact&theme=tokyonight" />
-</p>
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishreya-dev&theme=tokyonight)
 
-## 🏆 Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishreya-dev&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
 ## 📈 Activity Graph
 <p align="left">
