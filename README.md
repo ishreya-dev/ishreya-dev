@@ -94,8 +94,6 @@ Data warehouse and analytics platform with ETL pipelines and interactive dashboa
 <p align="left">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ishreya-dev&theme=tokyonight" />
 </p>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishreya-dev&theme=tokyonight)
-
 
 ## 📈 Activity Graph
 <p align="left">
