@@ -36,7 +36,7 @@ I enjoy turning AI ideas into reliable software — from backend APIs and enterp
 
 **AI Engineer** 
 
-```
+
 * 🤖 **Architected an AI-powered voice control system for Boston Dynamics Spot**, designing an **Agentic AI** workflow using **MCP, RAG, SBERT, FAISS, and LLM orchestration** for natural language robotic control.
 
 * 🧠 **Engineered a multi-route AI inference pipeline** with semantic intent classification and intelligent query routing, enabling **document QA, robot commands, mission telemetry, and general conversations** through a unified backend.
@@ -48,7 +48,7 @@ I enjoy turning AI ideas into reliable software — from backend APIs and enterp
 * 📡 **Built real-time monitoring for 35+ virtual machines** using **FastAPI, WebSockets, REST APIs, and SQL Server**, delivering live analytics with **20-second refresh intervals** while maintaining **99.5% production uptime**.
 
 * ☁️ **Developed and deployed scalable AI backend services** using **Docker, Azure DevOps, AWS (EC2, S3), Google BigQuery, JWT Authentication, and RBAC**, supporting secure, production-ready enterprise applications.
-```
+  
 
 ## 🚀 Featured Projects
 
