@@ -68,20 +68,6 @@ LangGraph-powered RAG system with automatic answer evaluation and retry mechanis
 Data warehouse and analytics platform with ETL pipelines and interactive dashboards.
 **Tech:** SQL Server · Power BI · React · FastAPI
 
-<p align="left">
-  <a href="https://github.com/ishreya-dev/pivotai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishreya-dev&repo=pivotai&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/ishreya-dev/guardrail-gateway">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishreya-dev&repo=guardrail-gateway&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/ishreya-dev/self-healing-rag">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishreya-dev&repo=self-healing-rag&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/ishreya-dev/enterprise-sales-analytics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishreya-dev&repo=enterprise-sales-analytics&theme=tokyonight"/>
-  </a>
-</p>
 
 ## 🚀 Currently Working On
 
