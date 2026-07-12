@@ -34,14 +34,21 @@ I enjoy turning AI ideas into reliable software — from backend APIs and enterp
 
 ## 💼 Experience
 
-**AI Engineer** · Vrio Digital
-*Dec 2025 – Apr 2026*
+**AI Engineer** 
 
-- Architected an AI-powered voice control system for Boston Dynamics Spot, designing a production-grade Agentic AI workflow using Python, FastAPI, MCP, RAG, SBERT embeddings, FAISS vector search, and LLM orchestration to enable natural language command execution for robotics.
-- Engineered a multi-route LLM inference pipeline integrating RAG, semantic retrieval, vector search, and intelligent query routing, reducing LLM response latency by 75% through retrieval optimization, prompt engineering, and inference optimization.
-- Led end-to-end development of Bot Queue Management and Strategic & SLA Intelligence Dashboards for a global enterprise client, owning system design, backend development, REST API integration, and production deployment across 6-country operations.
-- Built real-time monitoring for 35+ virtual machines using FastAPI, WebSockets, MS SQL Server, and REST APIs, delivering live transaction analytics, SLA reporting, and operational insights with 20-second refresh intervals while maintaining 99.5% production uptime.
-- Deployed production applications using Docker, Azure DevOps CI/CD, AWS (EC2, S3), and Google BigQuery, implementing secure backend services with JWT authentication, RBAC, and scalable deployment workflows.
+```
+* 🤖 **Architected an AI-powered voice control system for Boston Dynamics Spot**, designing an **Agentic AI** workflow using **MCP, RAG, SBERT, FAISS, and LLM orchestration** for natural language robotic control.
+
+* 🧠 **Engineered a multi-route AI inference pipeline** with semantic intent classification and intelligent query routing, enabling **document QA, robot commands, mission telemetry, and general conversations** through a unified backend.
+
+* ⚡ **Reduced LLM response latency by 75%** by optimizing semantic retrieval, vector search, prompt construction, and inference workflows.
+
+* 📊 **Led the end-to-end development of enterprise Bot Queue Management and Strategic & SLA Intelligence platforms**, owning **system architecture, backend APIs, data integration, and production deployment** across **6-country operations**.
+
+* 📡 **Built real-time monitoring for 35+ virtual machines** using **FastAPI, WebSockets, REST APIs, and SQL Server**, delivering live analytics with **20-second refresh intervals** while maintaining **99.5% production uptime**.
+
+* ☁️ **Developed and deployed scalable AI backend services** using **Docker, Azure DevOps, AWS (EC2, S3), Google BigQuery, JWT Authentication, and RBAC**, supporting secure, production-ready enterprise applications.
+```
 
 ## 🚀 Featured Projects
 
