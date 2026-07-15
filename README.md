@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-AI Engineer with **1.5+ years of experience** building production-ready AI applications.
+AI Engineer with **1+ years of experience** building production-ready AI applications.
 
 I enjoy turning AI ideas into reliable software — from backend APIs and enterprise dashboards to Agentic AI workflows and Retrieval-Augmented Generation (RAG) systems. My interests include LLM infrastructure, AI reliability, and scalable backend engineering.
 
