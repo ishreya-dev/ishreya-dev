@@ -78,11 +78,6 @@ Data warehouse and analytics platform with ETL pipelines and interactive dashboa
 - Enterprise LLM Applications
 - Open Source AI Projects
 
-## 📊 GitHub Stats
-<p align="left">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ishreya-dev&theme=tokyonight" />
-</p>
-
 ## 📈 Activity Graph
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishreya-dev&theme=tokyo-night" />
