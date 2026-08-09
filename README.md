@@ -103,39 +103,18 @@ I enjoy turning AI ideas into reliable software — from backend APIs and enterp
 
 ## 💼 Experience
 
-**AI Engineer** 
+### AI Engineer
 
-* 🤖 **Architected an AI-powered voice control system for Boston Dynamics Spot**, designing an **Agentic AI** workflow using **MCP, RAG, SBERT, FAISS, and LLM orchestration** for natural language robotic control.
+* 🤖 **Built enterprise AI/ML systems** using LLMs, RAG, Agentic AI, LangGraph, LangChain, MCP, and LLM orchestration for operational and regulatory intelligence.
 
-* 🧠 **Engineered a multi-route AI inference pipeline** with semantic intent classification and intelligent query routing, enabling **document QA, robot commands, mission telemetry, and general conversations** through a unified backend.
+* 🧠 **Engineered an Entity Resolution pipeline** for matching and deduplicating large-scale enterprise records using normalization, blocking, fuzzy matching, confidence scoring, and LLM-as-a-Judge, with resolved entities feeding a knowledge graph.
 
-* ⚡ **Reduced LLM response latency by 75%** by optimizing semantic retrieval, vector search, prompt construction, and inference workflows.
+* ⚙️ **Designed production backend services** with Python, FastAPI, AsyncIO, BigQuery, Docker, and AWS, building asynchronous APIs, caching, retries, monitoring, and external service integrations.
 
-* 📊 **Led the end-to-end development of enterprise Bot Queue Management and Strategic & SLA Intelligence platforms**, owning **system architecture, backend APIs, data integration, and production deployment** across **6-country operations**.
+* 🔐 **Developed secure LLM application infrastructure** with authentication, authorization, retrieval controls, prompt/data filtering, rate limiting, audit logging, model tiering, RAG, and multi-tool agent workflows.
 
-* 📡 **Built real-time monitoring for 35+ virtual machines** using **FastAPI, WebSockets, REST APIs, and SQL Server**, delivering live analytics with **20-second refresh intervals** while maintaining **99.5% production uptime**.
+* 🎨 **Worked across the application stack**, integrating AI/ML backend services with data platforms and frontend-facing applications while focusing primarily on AI systems, backend architecture, and production engineering.
 
-* ☁️ **Developed and deployed scalable AI backend services** using **Docker, Azure DevOps, AWS (EC2, S3), Google BigQuery, JWT Authentication, and RBAC**, supporting secure, production-ready enterprise applications.
-  
-
-
-## 🚀 Featured Projects
-
-### ✈️ PivotAI
-Multi-agent system that finds cheaper travel itineraries without making them worse, validated with 3 fine-tuned LLMs and a 92-case eval suite.
-**Tech:** Python · FastAPI · Llama 3.1 8B · QLoRA · MCP · Ollama
-
-### 🛡 Guardrail Gateway
-Production-ready middleware for LLM safety, policy enforcement, audit logging, authentication, and rate limiting.
-**Tech:** FastAPI · Python · JWT · SQLite · Groq
-
-### 🧠 Self-Healing RAG Pipeline
-LangGraph-powered RAG system with automatic answer evaluation and retry mechanisms.
-**Tech:** LangGraph · LangChain · FAISS · Python
-
-### 📊 Enterprise Sales Analytics
-Data warehouse and analytics platform with ETL pipelines and interactive dashboards.
-**Tech:** SQL Server · Power BI · React · FastAPI
 
 
 ## 🚀 Currently Working On
@@ -144,21 +123,6 @@ Data warehouse and analytics platform with ETL pipelines and interactive dashboa
 - Agentic AI Workflows
 - Enterprise LLM Applications
 - Open Source AI Projects
-
-## 📈 Activity Graph
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishreya-dev&theme=tokyo-night" />
-</p>
-
-## 🐍 Contribution Snake
-<p align="left">
-  <img src="https://raw.githubusercontent.com/ishreya-dev/ishreya-dev/output/github-contribution-grid-snake.svg" />
-</p>
-
-## 💬 Random Dev Quote
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
 
 ## 📫 Connect
 
